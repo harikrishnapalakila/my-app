@@ -1,10 +1,10 @@
 <html>
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=ISO-8859-1">
-<title>Reliance LMS Registration Form</title>
+<title>Reliance LMS Registration Form CI CD</title>
 </head>
 <body>
-<h1>Reliance LMS Register Form</h1>
+<h1>Reliance LMS Register Form CI CD </h1>
 <form action="guru_register" method="post">
 			<table style="with: 50%">
 				<tr>
